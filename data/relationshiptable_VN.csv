@@ -1,0 +1,510 @@
+label,from_unit,to_unit,relationship_type,category,from_unit_name,to_unit_name,fnid_from_unit,fnid_to_unit,can_aggregate_to_from,can_aggregate_from_to
+An Giang is an Admin 1 within Viet Nam,252242,252289,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A101,VN1980A0,False,True
+Bac Thai is an Admin 1 within Viet Nam,252243,252289,admin1_0,hierarchical,"Bac Thai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A102,VN1980A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252244,252289,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A103,VN1980A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252245,252289,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A104,VN1980A0,False,True
+Binh Tri Thien is an Admin 1 within Viet Nam,252246,252289,admin1_0,hierarchical,"Binh Tri Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A105,VN1980A0,False,True
+Can Tho is an Admin 1 within Viet Nam,252247,252289,admin1_0,hierarchical,"Can Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A106,VN1980A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252248,252289,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A107,VN1980A0,False,True
+Cuu Long is an Admin 1 within Viet Nam,252249,252289,admin1_0,hierarchical,"Cuu Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A108,VN1980A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252250,252289,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A109,VN1980A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252251,252289,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A110,VN1980A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252252,252289,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A111,VN1980A0,False,True
+Gia Lai-Kon Tum is an Admin 1 within Viet Nam,252253,252289,admin1_0,hierarchical,"Gia Lai-Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A112,VN1980A0,False,True
+Ha Bac is an Admin 1 within Viet Nam,252254,252289,admin1_0,hierarchical,"Ha Bac, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A113,VN1980A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252255,252289,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A114,VN1980A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252256,252289,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A115,VN1980A0,False,True
+Ha Sonh Binh is an Admin 1 within Viet Nam,252257,252289,admin1_0,hierarchical,"Ha Sonh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A116,VN1980A0,False,True
+Ha Tuyen is an Admin 1 within Viet Nam,252258,252289,admin1_0,hierarchical,"Ha Tuyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A117,VN1980A0,False,True
+Hai Hung is an Admin 1 within Viet Nam,252259,252289,admin1_0,hierarchical,"Hai Hung, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A118,VN1980A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252260,252289,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A119,VN1980A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252261,252289,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A120,VN1980A0,False,True
+Hoa Binh is an Admin 1 within Viet Nam,252262,252289,admin1_0,hierarchical,"Hoa Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A121,VN1980A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252263,252289,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A122,VN1980A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252264,252289,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A123,VN1980A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252265,252289,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A124,VN1980A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252266,252289,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A125,VN1980A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252267,252289,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A126,VN1980A0,False,True
+Long An is an Admin 1 within Viet Nam,252268,252289,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A127,VN1980A0,False,True
+Minh Hai is an Admin 1 within Viet Nam,252269,252289,admin1_0,hierarchical,"Minh Hai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A128,VN1980A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252270,252289,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A129,VN1980A0,False,True
+Nghe An is an Admin 1 within Viet Nam,252271,252289,admin1_0,hierarchical,"Nghe An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A130,VN1980A0,False,True
+Nghe Tinh is an Admin 1 within Viet Nam,252272,252289,admin1_0,hierarchical,"Nghe Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A131,VN1980A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252273,252289,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A132,VN1980A0,False,True
+Phu Khanh is an Admin 1 within Viet Nam,252274,252289,admin1_0,hierarchical,"Phu Khanh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A133,VN1980A0,False,True
+Quang Nam-Da Nang is an Admin 1 within Viet Nam,252275,252289,admin1_0,hierarchical,"Quang Nam-Da Nang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A134,VN1980A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252276,252289,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A135,VN1980A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252277,252289,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A136,VN1980A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252278,252289,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A137,VN1980A0,False,True
+Son La is an Admin 1 within Viet Nam,252279,252289,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A138,VN1980A0,False,True
+Song Be is an Admin 1 within Viet Nam,252280,252289,admin1_0,hierarchical,"Song Be, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A139,VN1980A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252281,252289,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A140,VN1980A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252282,252289,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A141,VN1980A0,False,True
+Thai Nguyen is an Admin 1 within Viet Nam,252283,252289,admin1_0,hierarchical,"Thai Nguyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A142,VN1980A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252284,252289,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A143,VN1980A0,False,True
+Thuan Hai is an Admin 1 within Viet Nam,252285,252289,admin1_0,hierarchical,"Thuan Hai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A144,VN1980A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252286,252289,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A145,VN1980A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252287,252289,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A146,VN1980A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252288,252289,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1980A147,VN1980A0,False,True
+An Giang is an Admin 1 within Viet Nam,252290,252338,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A101,VN1990A0,False,True
+Bac Thai is an Admin 1 within Viet Nam,252291,252338,admin1_0,hierarchical,"Bac Thai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A102,VN1990A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252292,252338,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A103,VN1990A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252293,252338,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A104,VN1990A0,False,True
+Can Tho is an Admin 1 within Viet Nam,252294,252338,admin1_0,hierarchical,"Can Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A106,VN1990A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252295,252338,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A107,VN1990A0,False,True
+Cuu Long is an Admin 1 within Viet Nam,252296,252338,admin1_0,hierarchical,"Cuu Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A108,VN1990A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252297,252338,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A109,VN1990A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252298,252338,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A110,VN1990A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252299,252338,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A111,VN1990A0,False,True
+Gia Lai-Kon Tum is an Admin 1 within Viet Nam,252300,252338,admin1_0,hierarchical,"Gia Lai-Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A112,VN1990A0,False,True
+Ha Bac is an Admin 1 within Viet Nam,252301,252338,admin1_0,hierarchical,"Ha Bac, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A113,VN1990A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252302,252338,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A114,VN1990A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252303,252338,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A115,VN1990A0,False,True
+Ha Sonh Binh is an Admin 1 within Viet Nam,252304,252338,admin1_0,hierarchical,"Ha Sonh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A116,VN1990A0,False,True
+Ha Tuyen is an Admin 1 within Viet Nam,252305,252338,admin1_0,hierarchical,"Ha Tuyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A117,VN1990A0,False,True
+Hai Hung is an Admin 1 within Viet Nam,252306,252338,admin1_0,hierarchical,"Hai Hung, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A118,VN1990A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252307,252338,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A119,VN1990A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252308,252338,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A120,VN1990A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252309,252338,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A122,VN1990A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252310,252338,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A123,VN1990A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252311,252338,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A124,VN1990A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252312,252338,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A125,VN1990A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252313,252338,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A126,VN1990A0,False,True
+Long An is an Admin 1 within Viet Nam,252314,252338,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A127,VN1990A0,False,True
+Minh Hai is an Admin 1 within Viet Nam,252315,252338,admin1_0,hierarchical,"Minh Hai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A128,VN1990A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252316,252338,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A129,VN1990A0,False,True
+Nghe Tinh is an Admin 1 within Viet Nam,252317,252338,admin1_0,hierarchical,"Nghe Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A131,VN1990A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252318,252338,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A132,VN1990A0,False,True
+Quang Nam-Da Nang is an Admin 1 within Viet Nam,252319,252338,admin1_0,hierarchical,"Quang Nam-Da Nang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A134,VN1990A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252320,252338,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A135,VN1990A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252321,252338,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A136,VN1990A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252322,252338,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A137,VN1990A0,False,True
+Son La is an Admin 1 within Viet Nam,252323,252338,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A138,VN1990A0,False,True
+Song Be is an Admin 1 within Viet Nam,252324,252338,admin1_0,hierarchical,"Song Be, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A139,VN1990A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252325,252338,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A140,VN1990A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252326,252338,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A141,VN1990A0,False,True
+Thai Nguyen is an Admin 1 within Viet Nam,252327,252338,admin1_0,hierarchical,"Thai Nguyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A142,VN1990A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252328,252338,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A143,VN1990A0,False,True
+Thuan Hai is an Admin 1 within Viet Nam,252329,252338,admin1_0,hierarchical,"Thuan Hai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A144,VN1990A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252330,252338,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A145,VN1990A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252331,252338,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A146,VN1990A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252332,252338,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A147,VN1990A0,False,True
+Quang Binh is an Admin 1 within Viet Nam,252333,252338,admin1_0,hierarchical,"Quang Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A148,VN1990A0,False,True
+Quang Tri is an Admin 1 within Viet Nam,252334,252338,admin1_0,hierarchical,"Quang Tri, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A149,VN1990A0,False,True
+Thua Thien is an Admin 1 within Viet Nam,252335,252338,admin1_0,hierarchical,"Thua Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A150,VN1990A0,False,True
+Khanh Hoa is an Admin 1 within Viet Nam,252336,252338,admin1_0,hierarchical,"Khanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A151,VN1990A0,False,True
+Phu Yen is an Admin 1 within Viet Nam,252337,252338,admin1_0,hierarchical,"Phu Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1990A152,VN1990A0,False,True
+An Giang is an Admin 1 within Viet Nam,252339,252390,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A101,VN1991A0,False,True
+Bac Thai is an Admin 1 within Viet Nam,252340,252390,admin1_0,hierarchical,"Bac Thai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A102,VN1991A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252341,252390,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A103,VN1991A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252342,252390,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A104,VN1991A0,False,True
+Can Tho is an Admin 1 within Viet Nam,252343,252390,admin1_0,hierarchical,"Can Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A106,VN1991A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252344,252390,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A107,VN1991A0,False,True
+Cuu Long is an Admin 1 within Viet Nam,252345,252390,admin1_0,hierarchical,"Cuu Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A108,VN1991A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252346,252390,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A109,VN1991A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252347,252390,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A110,VN1991A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252348,252390,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A111,VN1991A0,False,True
+Ha Bac is an Admin 1 within Viet Nam,252349,252390,admin1_0,hierarchical,"Ha Bac, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A113,VN1991A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252350,252390,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A114,VN1991A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252351,252390,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A115,VN1991A0,False,True
+Ha Tuyen is an Admin 1 within Viet Nam,252352,252390,admin1_0,hierarchical,"Ha Tuyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A117,VN1991A0,False,True
+Hai Hung is an Admin 1 within Viet Nam,252353,252390,admin1_0,hierarchical,"Hai Hung, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A118,VN1991A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252354,252390,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A119,VN1991A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252355,252390,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A120,VN1991A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252356,252390,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A122,VN1991A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252357,252390,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A123,VN1991A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252358,252390,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A124,VN1991A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252359,252390,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A125,VN1991A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252360,252390,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A126,VN1991A0,False,True
+Long An is an Admin 1 within Viet Nam,252361,252390,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A127,VN1991A0,False,True
+Minh Hai is an Admin 1 within Viet Nam,252362,252390,admin1_0,hierarchical,"Minh Hai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A128,VN1991A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252363,252390,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A129,VN1991A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252364,252390,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A132,VN1991A0,False,True
+Quang Nam-Da Nang is an Admin 1 within Viet Nam,252365,252390,admin1_0,hierarchical,"Quang Nam-Da Nang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A134,VN1991A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252366,252390,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A135,VN1991A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252367,252390,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A136,VN1991A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252368,252390,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A137,VN1991A0,False,True
+Son La is an Admin 1 within Viet Nam,252369,252390,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A138,VN1991A0,False,True
+Song Be is an Admin 1 within Viet Nam,252370,252390,admin1_0,hierarchical,"Song Be, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A139,VN1991A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252371,252390,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A140,VN1991A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252372,252390,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A141,VN1991A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252373,252390,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A143,VN1991A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252374,252390,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A145,VN1991A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252375,252390,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A146,VN1991A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252376,252390,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A147,VN1991A0,False,True
+Quang Binh is an Admin 1 within Viet Nam,252377,252390,admin1_0,hierarchical,"Quang Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A148,VN1991A0,False,True
+Quang Tri is an Admin 1 within Viet Nam,252378,252390,admin1_0,hierarchical,"Quang Tri, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A149,VN1991A0,False,True
+Thua Thien is an Admin 1 within Viet Nam,252379,252390,admin1_0,hierarchical,"Thua Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A150,VN1991A0,False,True
+Khanh Hoa is an Admin 1 within Viet Nam,252380,252390,admin1_0,hierarchical,"Khanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A151,VN1991A0,False,True
+Phu Yen is an Admin 1 within Viet Nam,252381,252390,admin1_0,hierarchical,"Phu Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A152,VN1991A0,False,True
+Gia Lai is an Admin 1 within Viet Nam,252382,252390,admin1_0,hierarchical,"Gia Lai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A153,VN1991A0,False,True
+Kon Tum is an Admin 1 within Viet Nam,252383,252390,admin1_0,hierarchical,"Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A154,VN1991A0,False,True
+Ha Tinh is an Admin 1 within Viet Nam,252384,252390,admin1_0,hierarchical,"Ha Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A155,VN1991A0,False,True
+Nghe An is an Admin 1 within Viet Nam,252385,252390,admin1_0,hierarchical,"Nghe An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A156,VN1991A0,False,True
+Binh Thuan is an Admin 1 within Viet Nam,252386,252390,admin1_0,hierarchical,"Binh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A157,VN1991A0,False,True
+Ninh Thuan is an Admin 1 within Viet Nam,252387,252390,admin1_0,hierarchical,"Ninh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A158,VN1991A0,False,True
+Hoa Binh is an Admin 1 within Viet Nam,252388,252390,admin1_0,hierarchical,"Hoa Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A159,VN1991A0,False,True
+Ha Tay is an Admin 1 within Viet Nam,252389,252390,admin1_0,hierarchical,"Ha Tay, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1991A160,VN1991A0,False,True
+An Giang is an Admin 1 within Viet Nam,252391,252446,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A101,VN1992A0,False,True
+Bac Thai is an Admin 1 within Viet Nam,252392,252446,admin1_0,hierarchical,"Bac Thai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A102,VN1992A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252393,252446,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A103,VN1992A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252394,252446,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A104,VN1992A0,False,True
+Can Tho is an Admin 1 within Viet Nam,252395,252446,admin1_0,hierarchical,"Can Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A106,VN1992A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252396,252446,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A107,VN1992A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252397,252446,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A109,VN1992A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252398,252446,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A111,VN1992A0,False,True
+Ha Bac is an Admin 1 within Viet Nam,252399,252446,admin1_0,hierarchical,"Ha Bac, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A113,VN1992A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252400,252446,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A114,VN1992A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252401,252446,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A115,VN1992A0,False,True
+Hai Hung is an Admin 1 within Viet Nam,252402,252446,admin1_0,hierarchical,"Hai Hung, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A118,VN1992A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252403,252446,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A119,VN1992A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252404,252446,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A120,VN1992A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252405,252446,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A122,VN1992A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252406,252446,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A123,VN1992A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252407,252446,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A124,VN1992A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252408,252446,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A125,VN1992A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252409,252446,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A126,VN1992A0,False,True
+Long An is an Admin 1 within Viet Nam,252410,252446,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A127,VN1992A0,False,True
+Minh Hai is an Admin 1 within Viet Nam,252411,252446,admin1_0,hierarchical,"Minh Hai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A128,VN1992A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252412,252446,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A129,VN1992A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252413,252446,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A132,VN1992A0,False,True
+Quang Nam-Da Nang is an Admin 1 within Viet Nam,252414,252446,admin1_0,hierarchical,"Quang Nam-Da Nang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A134,VN1992A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252415,252446,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A135,VN1992A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252416,252446,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A136,VN1992A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252417,252446,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A137,VN1992A0,False,True
+Son La is an Admin 1 within Viet Nam,252418,252446,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A138,VN1992A0,False,True
+Song Be is an Admin 1 within Viet Nam,252419,252446,admin1_0,hierarchical,"Song Be, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A139,VN1992A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252420,252446,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A140,VN1992A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252421,252446,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A141,VN1992A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252422,252446,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A143,VN1992A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252423,252446,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A145,VN1992A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252424,252446,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A147,VN1992A0,False,True
+Quang Binh is an Admin 1 within Viet Nam,252425,252446,admin1_0,hierarchical,"Quang Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A148,VN1992A0,False,True
+Quang Tri is an Admin 1 within Viet Nam,252426,252446,admin1_0,hierarchical,"Quang Tri, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A149,VN1992A0,False,True
+Thua Thien is an Admin 1 within Viet Nam,252427,252446,admin1_0,hierarchical,"Thua Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A150,VN1992A0,False,True
+Khanh Hoa is an Admin 1 within Viet Nam,252428,252446,admin1_0,hierarchical,"Khanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A151,VN1992A0,False,True
+Phu Yen is an Admin 1 within Viet Nam,252429,252446,admin1_0,hierarchical,"Phu Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A152,VN1992A0,False,True
+Gia Lai is an Admin 1 within Viet Nam,252430,252446,admin1_0,hierarchical,"Gia Lai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A153,VN1992A0,False,True
+Kon Tum is an Admin 1 within Viet Nam,252431,252446,admin1_0,hierarchical,"Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A154,VN1992A0,False,True
+Ha Tinh is an Admin 1 within Viet Nam,252432,252446,admin1_0,hierarchical,"Ha Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A155,VN1992A0,False,True
+Nghe An is an Admin 1 within Viet Nam,252433,252446,admin1_0,hierarchical,"Nghe An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A156,VN1992A0,False,True
+Binh Thuan is an Admin 1 within Viet Nam,252434,252446,admin1_0,hierarchical,"Binh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A157,VN1992A0,False,True
+Ninh Thuan is an Admin 1 within Viet Nam,252435,252446,admin1_0,hierarchical,"Ninh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A158,VN1992A0,False,True
+Hoa Binh is an Admin 1 within Viet Nam,252436,252446,admin1_0,hierarchical,"Hoa Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A159,VN1992A0,False,True
+Ha Tay is an Admin 1 within Viet Nam,252437,252446,admin1_0,hierarchical,"Ha Tay, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A160,VN1992A0,False,True
+Tra Vinh is an Admin 1 within Viet Nam,252438,252446,admin1_0,hierarchical,"Tra Vinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A161,VN1992A0,False,True
+Vinh Long is an Admin 1 within Viet Nam,252439,252446,admin1_0,hierarchical,"Vinh Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A162,VN1992A0,False,True
+Ba Ria - Vung Tau is an Admin 1 within Viet Nam,252440,252446,admin1_0,hierarchical,"Ba Ria - Vung Tau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A163,VN1992A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252441,252446,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A164,VN1992A0,False,True
+Ha Giang is an Admin 1 within Viet Nam,252442,252446,admin1_0,hierarchical,"Ha Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A165,VN1992A0,False,True
+Tuyen Quang is an Admin 1 within Viet Nam,252443,252446,admin1_0,hierarchical,"Tuyen Quang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A166,VN1992A0,False,True
+Phu Tho is an Admin 1 within Viet Nam,252444,252446,admin1_0,hierarchical,"Phu Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A167,VN1992A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252445,252446,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1992A168,VN1992A0,False,True
+An Giang is an Admin 1 within Viet Nam,252447,252505,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A101,VN1996A0,False,True
+Bac Giang is an Admin 1 within Viet Nam,252500,252505,admin1_0,hierarchical,"Bac Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A171,VN1996A0,False,True
+Bac Kan is an Admin 1 within Viet Nam,252498,252505,admin1_0,hierarchical,"Bac Kan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A169,VN1996A0,False,True
+Bac Lieu is an Admin 1 within Viet Nam,252502,252505,admin1_0,hierarchical,"Bac Lieu, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A173,VN1996A0,False,True
+Bac Ninh is an Admin 1 within Viet Nam,252501,252505,admin1_0,hierarchical,"Bac Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A172,VN1996A0,False,True
+Ba Ria - Vung Tau is an Admin 1 within Viet Nam,252492,252505,admin1_0,hierarchical,"Ba Ria - Vung Tau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A163,VN1996A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252448,252505,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A103,VN1996A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252449,252505,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A104,VN1996A0,False,True
+Binh Thuan is an Admin 1 within Viet Nam,252486,252505,admin1_0,hierarchical,"Binh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A157,VN1996A0,False,True
+Ca Mau is an Admin 1 within Viet Nam,252503,252505,admin1_0,hierarchical,"Ca Mau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A174,VN1996A0,False,True
+Can Tho is an Admin 1 within Viet Nam,252450,252505,admin1_0,hierarchical,"Can Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A106,VN1996A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252499,252505,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A170,VN1996A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252451,252505,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A109,VN1996A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252493,252505,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A164,VN1996A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252452,252505,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A111,VN1996A0,False,True
+Gia Lai is an Admin 1 within Viet Nam,252482,252505,admin1_0,hierarchical,"Gia Lai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A153,VN1996A0,False,True
+Ha Giang is an Admin 1 within Viet Nam,252494,252505,admin1_0,hierarchical,"Ha Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A165,VN1996A0,False,True
+Hai Hung is an Admin 1 within Viet Nam,252455,252505,admin1_0,hierarchical,"Hai Hung, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A118,VN1996A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252456,252505,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A119,VN1996A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252453,252505,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A114,VN1996A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252454,252505,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A115,VN1996A0,False,True
+Ha Tay is an Admin 1 within Viet Nam,252489,252505,admin1_0,hierarchical,"Ha Tay, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A160,VN1996A0,False,True
+Ha Tinh is an Admin 1 within Viet Nam,252484,252505,admin1_0,hierarchical,"Ha Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A155,VN1996A0,False,True
+Hoa Binh is an Admin 1 within Viet Nam,252488,252505,admin1_0,hierarchical,"Hoa Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A159,VN1996A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252457,252505,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A120,VN1996A0,False,True
+Khanh Hoa is an Admin 1 within Viet Nam,252480,252505,admin1_0,hierarchical,"Khanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A151,VN1996A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252458,252505,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A122,VN1996A0,False,True
+Kon Tum is an Admin 1 within Viet Nam,252483,252505,admin1_0,hierarchical,"Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A154,VN1996A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252459,252505,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A123,VN1996A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252460,252505,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A124,VN1996A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252461,252505,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A125,VN1996A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252462,252505,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A126,VN1996A0,False,True
+Long An is an Admin 1 within Viet Nam,252463,252505,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A127,VN1996A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252464,252505,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A129,VN1996A0,False,True
+Nghe An is an Admin 1 within Viet Nam,252485,252505,admin1_0,hierarchical,"Nghe An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A156,VN1996A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252465,252505,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A132,VN1996A0,False,True
+Ninh Thuan is an Admin 1 within Viet Nam,252487,252505,admin1_0,hierarchical,"Ninh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A158,VN1996A0,False,True
+Phu Tho is an Admin 1 within Viet Nam,252496,252505,admin1_0,hierarchical,"Phu Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A167,VN1996A0,False,True
+Phu Yen is an Admin 1 within Viet Nam,252481,252505,admin1_0,hierarchical,"Phu Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A152,VN1996A0,False,True
+Quang Binh is an Admin 1 within Viet Nam,252477,252505,admin1_0,hierarchical,"Quang Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A148,VN1996A0,False,True
+Quang Nam-Da Nang is an Admin 1 within Viet Nam,252466,252505,admin1_0,hierarchical,"Quang Nam-Da Nang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A134,VN1996A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252467,252505,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A135,VN1996A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252468,252505,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A136,VN1996A0,False,True
+Quang Tri is an Admin 1 within Viet Nam,252478,252505,admin1_0,hierarchical,"Quang Tri, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A149,VN1996A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252469,252505,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A137,VN1996A0,False,True
+Song Be is an Admin 1 within Viet Nam,252471,252505,admin1_0,hierarchical,"Song Be, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A139,VN1996A0,False,True
+Son La is an Admin 1 within Viet Nam,252470,252505,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A138,VN1996A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252472,252505,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A140,VN1996A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252473,252505,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A141,VN1996A0,False,True
+Thai Nguyen is an Admin 1 within Viet Nam,252504,252505,admin1_0,hierarchical,"Thai Nguyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A175,VN1996A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252474,252505,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A143,VN1996A0,False,True
+Thua Thien is an Admin 1 within Viet Nam,252479,252505,admin1_0,hierarchical,"Thua Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A150,VN1996A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252475,252505,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A145,VN1996A0,False,True
+Tra Vinh is an Admin 1 within Viet Nam,252490,252505,admin1_0,hierarchical,"Tra Vinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A161,VN1996A0,False,True
+Tuyen Quang is an Admin 1 within Viet Nam,252495,252505,admin1_0,hierarchical,"Tuyen Quang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A166,VN1996A0,False,True
+Vinh Long is an Admin 1 within Viet Nam,252491,252505,admin1_0,hierarchical,"Vinh Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A162,VN1996A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252497,252505,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A168,VN1996A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252476,252505,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1996A147,VN1996A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252506,252567,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A109,VN1997A0,False,True
+An Giang is an Admin 1 within Viet Nam,252507,252567,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A101,VN1997A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252508,252567,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A103,VN1997A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252509,252567,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A104,VN1997A0,False,True
+Can Tho is an Admin 1 within Viet Nam,252510,252567,admin1_0,hierarchical,"Can Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A106,VN1997A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252511,252567,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A111,VN1997A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252512,252567,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A114,VN1997A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252513,252567,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A115,VN1997A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252514,252567,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A119,VN1997A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252515,252567,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A120,VN1997A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252516,252567,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A122,VN1997A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252517,252567,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A123,VN1997A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252518,252567,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A124,VN1997A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252519,252567,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A125,VN1997A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252520,252567,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A126,VN1997A0,False,True
+Long An is an Admin 1 within Viet Nam,252521,252567,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A127,VN1997A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252522,252567,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A129,VN1997A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252523,252567,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A132,VN1997A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252524,252567,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A135,VN1997A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252525,252567,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A136,VN1997A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252526,252567,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A137,VN1997A0,False,True
+Son La is an Admin 1 within Viet Nam,252527,252567,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A138,VN1997A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252528,252567,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A140,VN1997A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252529,252567,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A141,VN1997A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252530,252567,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A143,VN1997A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252531,252567,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A145,VN1997A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252532,252567,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A147,VN1997A0,False,True
+Quang Binh is an Admin 1 within Viet Nam,252533,252567,admin1_0,hierarchical,"Quang Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A148,VN1997A0,False,True
+Quang Tri is an Admin 1 within Viet Nam,252534,252567,admin1_0,hierarchical,"Quang Tri, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A149,VN1997A0,False,True
+Thua Thien is an Admin 1 within Viet Nam,252535,252567,admin1_0,hierarchical,"Thua Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A150,VN1997A0,False,True
+Khanh Hoa is an Admin 1 within Viet Nam,252536,252567,admin1_0,hierarchical,"Khanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A151,VN1997A0,False,True
+Phu Yen is an Admin 1 within Viet Nam,252537,252567,admin1_0,hierarchical,"Phu Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A152,VN1997A0,False,True
+Gia Lai is an Admin 1 within Viet Nam,252538,252567,admin1_0,hierarchical,"Gia Lai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A153,VN1997A0,False,True
+Kon Tum is an Admin 1 within Viet Nam,252539,252567,admin1_0,hierarchical,"Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A154,VN1997A0,False,True
+Ha Tinh is an Admin 1 within Viet Nam,252540,252567,admin1_0,hierarchical,"Ha Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A155,VN1997A0,False,True
+Nghe An is an Admin 1 within Viet Nam,252541,252567,admin1_0,hierarchical,"Nghe An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A156,VN1997A0,False,True
+Binh Thuan is an Admin 1 within Viet Nam,252542,252567,admin1_0,hierarchical,"Binh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A157,VN1997A0,False,True
+Ninh Thuan is an Admin 1 within Viet Nam,252543,252567,admin1_0,hierarchical,"Ninh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A158,VN1997A0,False,True
+Hoa Binh is an Admin 1 within Viet Nam,252544,252567,admin1_0,hierarchical,"Hoa Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A159,VN1997A0,False,True
+Ha Tay is an Admin 1 within Viet Nam,252545,252567,admin1_0,hierarchical,"Ha Tay, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A160,VN1997A0,False,True
+Tra Vinh is an Admin 1 within Viet Nam,252546,252567,admin1_0,hierarchical,"Tra Vinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A161,VN1997A0,False,True
+Vinh Long is an Admin 1 within Viet Nam,252547,252567,admin1_0,hierarchical,"Vinh Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A162,VN1997A0,False,True
+Ba Ria - Vung Tau is an Admin 1 within Viet Nam,252548,252567,admin1_0,hierarchical,"Ba Ria - Vung Tau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A163,VN1997A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252549,252567,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A164,VN1997A0,False,True
+Ha Giang is an Admin 1 within Viet Nam,252550,252567,admin1_0,hierarchical,"Ha Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A165,VN1997A0,False,True
+Tuyen Quang is an Admin 1 within Viet Nam,252551,252567,admin1_0,hierarchical,"Tuyen Quang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A166,VN1997A0,False,True
+Phu Tho is an Admin 1 within Viet Nam,252552,252567,admin1_0,hierarchical,"Phu Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A167,VN1997A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252553,252567,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A168,VN1997A0,False,True
+Bac Kan is an Admin 1 within Viet Nam,252554,252567,admin1_0,hierarchical,"Bac Kan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A169,VN1997A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252555,252567,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A170,VN1997A0,False,True
+Bac Giang is an Admin 1 within Viet Nam,252556,252567,admin1_0,hierarchical,"Bac Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A171,VN1997A0,False,True
+Bac Ninh is an Admin 1 within Viet Nam,252557,252567,admin1_0,hierarchical,"Bac Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A172,VN1997A0,False,True
+Bac Lieu is an Admin 1 within Viet Nam,252558,252567,admin1_0,hierarchical,"Bac Lieu, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A173,VN1997A0,False,True
+Ca Mau is an Admin 1 within Viet Nam,252559,252567,admin1_0,hierarchical,"Ca Mau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A174,VN1997A0,False,True
+Thai Nguyen is an Admin 1 within Viet Nam,252560,252567,admin1_0,hierarchical,"Thai Nguyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A175,VN1997A0,False,True
+Hai Duong is an Admin 1 within Viet Nam,252561,252567,admin1_0,hierarchical,"Hai Duong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A176,VN1997A0,False,True
+Hung Yen is an Admin 1 within Viet Nam,252562,252567,admin1_0,hierarchical,"Hung Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A177,VN1997A0,False,True
+Da Nang City is an Admin 1 within Viet Nam,252563,252567,admin1_0,hierarchical,"Da Nang City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A178,VN1997A0,False,True
+Quang Nam is an Admin 1 within Viet Nam,252564,252567,admin1_0,hierarchical,"Quang Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A179,VN1997A0,False,True
+Binh Duong is an Admin 1 within Viet Nam,252565,252567,admin1_0,hierarchical,"Binh Duong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A180,VN1997A0,False,True
+Binh Phuoc is an Admin 1 within Viet Nam,252566,252567,admin1_0,hierarchical,"Binh Phuoc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN1997A181,VN1997A0,False,True
+An Giang is an Admin 1 within Viet Nam,252568,252630,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A101,VN2003A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252569,252630,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A103,VN2003A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252570,252630,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A104,VN2003A0,False,True
+Can Tho is an Admin 1 within Viet Nam,252571,252630,admin1_0,hierarchical,"Can Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A106,VN2003A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252572,252630,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A111,VN2003A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252573,252630,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A114,VN2003A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252574,252630,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A115,VN2003A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252575,252630,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A119,VN2003A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252576,252630,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A120,VN2003A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252577,252630,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A122,VN2003A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252578,252630,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A123,VN2003A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252579,252630,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A124,VN2003A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252580,252630,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A125,VN2003A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252581,252630,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A126,VN2003A0,False,True
+Long An is an Admin 1 within Viet Nam,252582,252630,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A127,VN2003A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252583,252630,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A129,VN2003A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252584,252630,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A132,VN2003A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252585,252630,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A135,VN2003A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252586,252630,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A136,VN2003A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252587,252630,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A137,VN2003A0,False,True
+Son La is an Admin 1 within Viet Nam,252588,252630,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A138,VN2003A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252589,252630,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A140,VN2003A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252590,252630,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A141,VN2003A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252591,252630,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A143,VN2003A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252592,252630,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A145,VN2003A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252593,252630,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A147,VN2003A0,False,True
+Quang Binh is an Admin 1 within Viet Nam,252594,252630,admin1_0,hierarchical,"Quang Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A148,VN2003A0,False,True
+Quang Tri is an Admin 1 within Viet Nam,252595,252630,admin1_0,hierarchical,"Quang Tri, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A149,VN2003A0,False,True
+Thua Thien is an Admin 1 within Viet Nam,252596,252630,admin1_0,hierarchical,"Thua Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A150,VN2003A0,False,True
+Khanh Hoa is an Admin 1 within Viet Nam,252597,252630,admin1_0,hierarchical,"Khanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A151,VN2003A0,False,True
+Phu Yen is an Admin 1 within Viet Nam,252598,252630,admin1_0,hierarchical,"Phu Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A152,VN2003A0,False,True
+Gia Lai is an Admin 1 within Viet Nam,252599,252630,admin1_0,hierarchical,"Gia Lai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A153,VN2003A0,False,True
+Kon Tum is an Admin 1 within Viet Nam,252600,252630,admin1_0,hierarchical,"Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A154,VN2003A0,False,True
+Ha Tinh is an Admin 1 within Viet Nam,252601,252630,admin1_0,hierarchical,"Ha Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A155,VN2003A0,False,True
+Nghe An is an Admin 1 within Viet Nam,252602,252630,admin1_0,hierarchical,"Nghe An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A156,VN2003A0,False,True
+Binh Thuan is an Admin 1 within Viet Nam,252603,252630,admin1_0,hierarchical,"Binh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A157,VN2003A0,False,True
+Ninh Thuan is an Admin 1 within Viet Nam,252604,252630,admin1_0,hierarchical,"Ninh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A158,VN2003A0,False,True
+Hoa Binh is an Admin 1 within Viet Nam,252605,252630,admin1_0,hierarchical,"Hoa Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A159,VN2003A0,False,True
+Ha Tay is an Admin 1 within Viet Nam,252606,252630,admin1_0,hierarchical,"Ha Tay, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A160,VN2003A0,False,True
+Tra Vinh is an Admin 1 within Viet Nam,252607,252630,admin1_0,hierarchical,"Tra Vinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A161,VN2003A0,False,True
+Vinh Long is an Admin 1 within Viet Nam,252608,252630,admin1_0,hierarchical,"Vinh Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A162,VN2003A0,False,True
+Ba Ria - Vung Tau is an Admin 1 within Viet Nam,252609,252630,admin1_0,hierarchical,"Ba Ria - Vung Tau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A163,VN2003A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252610,252630,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A164,VN2003A0,False,True
+Ha Giang is an Admin 1 within Viet Nam,252611,252630,admin1_0,hierarchical,"Ha Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A165,VN2003A0,False,True
+Tuyen Quang is an Admin 1 within Viet Nam,252612,252630,admin1_0,hierarchical,"Tuyen Quang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A166,VN2003A0,False,True
+Phu Tho is an Admin 1 within Viet Nam,252613,252630,admin1_0,hierarchical,"Phu Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A167,VN2003A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252614,252630,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A168,VN2003A0,False,True
+Bac Kan is an Admin 1 within Viet Nam,252615,252630,admin1_0,hierarchical,"Bac Kan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A169,VN2003A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252616,252630,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A170,VN2003A0,False,True
+Bac Giang is an Admin 1 within Viet Nam,252617,252630,admin1_0,hierarchical,"Bac Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A171,VN2003A0,False,True
+Bac Ninh is an Admin 1 within Viet Nam,252618,252630,admin1_0,hierarchical,"Bac Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A172,VN2003A0,False,True
+Bac Lieu is an Admin 1 within Viet Nam,252619,252630,admin1_0,hierarchical,"Bac Lieu, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A173,VN2003A0,False,True
+Ca Mau is an Admin 1 within Viet Nam,252620,252630,admin1_0,hierarchical,"Ca Mau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A174,VN2003A0,False,True
+Thai Nguyen is an Admin 1 within Viet Nam,252621,252630,admin1_0,hierarchical,"Thai Nguyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A175,VN2003A0,False,True
+Hai Duong is an Admin 1 within Viet Nam,252622,252630,admin1_0,hierarchical,"Hai Duong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A176,VN2003A0,False,True
+Hung Yen is an Admin 1 within Viet Nam,252623,252630,admin1_0,hierarchical,"Hung Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A177,VN2003A0,False,True
+Da Nang City is an Admin 1 within Viet Nam,252624,252630,admin1_0,hierarchical,"Da Nang City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A178,VN2003A0,False,True
+Quang Nam is an Admin 1 within Viet Nam,252625,252630,admin1_0,hierarchical,"Quang Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A179,VN2003A0,False,True
+Binh Duong is an Admin 1 within Viet Nam,252626,252630,admin1_0,hierarchical,"Binh Duong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A180,VN2003A0,False,True
+Binh Phuoc is an Admin 1 within Viet Nam,252627,252630,admin1_0,hierarchical,"Binh Phuoc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A181,VN2003A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252628,252630,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A182,VN2003A0,False,True
+Dak Nong is an Admin 1 within Viet Nam,252629,252630,admin1_0,hierarchical,"Dak Nong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2003A183,VN2003A0,False,True
+An Giang is an Admin 1 within Viet Nam,252631,252695,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A101,VN2004A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252632,252695,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A103,VN2004A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252633,252695,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A104,VN2004A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252634,252695,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A111,VN2004A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252635,252695,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A114,VN2004A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252636,252695,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A115,VN2004A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252637,252695,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A119,VN2004A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252638,252695,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A120,VN2004A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252639,252695,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A122,VN2004A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252640,252695,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A124,VN2004A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252641,252695,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A125,VN2004A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252642,252695,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A126,VN2004A0,False,True
+Long An is an Admin 1 within Viet Nam,252643,252695,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A127,VN2004A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252644,252695,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A129,VN2004A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252645,252695,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A132,VN2004A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252646,252695,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A135,VN2004A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252647,252695,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A136,VN2004A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252648,252695,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A137,VN2004A0,False,True
+Son La is an Admin 1 within Viet Nam,252649,252695,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A138,VN2004A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252650,252695,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A140,VN2004A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252651,252695,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A141,VN2004A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252652,252695,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A143,VN2004A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252653,252695,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A145,VN2004A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252654,252695,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A147,VN2004A0,False,True
+Quang Binh is an Admin 1 within Viet Nam,252655,252695,admin1_0,hierarchical,"Quang Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A148,VN2004A0,False,True
+Quang Tri is an Admin 1 within Viet Nam,252656,252695,admin1_0,hierarchical,"Quang Tri, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A149,VN2004A0,False,True
+Thua Thien is an Admin 1 within Viet Nam,252657,252695,admin1_0,hierarchical,"Thua Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A150,VN2004A0,False,True
+Khanh Hoa is an Admin 1 within Viet Nam,252658,252695,admin1_0,hierarchical,"Khanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A151,VN2004A0,False,True
+Phu Yen is an Admin 1 within Viet Nam,252659,252695,admin1_0,hierarchical,"Phu Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A152,VN2004A0,False,True
+Gia Lai is an Admin 1 within Viet Nam,252660,252695,admin1_0,hierarchical,"Gia Lai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A153,VN2004A0,False,True
+Kon Tum is an Admin 1 within Viet Nam,252661,252695,admin1_0,hierarchical,"Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A154,VN2004A0,False,True
+Ha Tinh is an Admin 1 within Viet Nam,252662,252695,admin1_0,hierarchical,"Ha Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A155,VN2004A0,False,True
+Nghe An is an Admin 1 within Viet Nam,252663,252695,admin1_0,hierarchical,"Nghe An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A156,VN2004A0,False,True
+Binh Thuan is an Admin 1 within Viet Nam,252664,252695,admin1_0,hierarchical,"Binh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A157,VN2004A0,False,True
+Ninh Thuan is an Admin 1 within Viet Nam,252665,252695,admin1_0,hierarchical,"Ninh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A158,VN2004A0,False,True
+Hoa Binh is an Admin 1 within Viet Nam,252666,252695,admin1_0,hierarchical,"Hoa Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A159,VN2004A0,False,True
+Ha Tay is an Admin 1 within Viet Nam,252667,252695,admin1_0,hierarchical,"Ha Tay, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A160,VN2004A0,False,True
+Tra Vinh is an Admin 1 within Viet Nam,252668,252695,admin1_0,hierarchical,"Tra Vinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A161,VN2004A0,False,True
+Vinh Long is an Admin 1 within Viet Nam,252669,252695,admin1_0,hierarchical,"Vinh Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A162,VN2004A0,False,True
+Ba Ria - Vung Tau is an Admin 1 within Viet Nam,252670,252695,admin1_0,hierarchical,"Ba Ria - Vung Tau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A163,VN2004A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252671,252695,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A164,VN2004A0,False,True
+Ha Giang is an Admin 1 within Viet Nam,252672,252695,admin1_0,hierarchical,"Ha Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A165,VN2004A0,False,True
+Tuyen Quang is an Admin 1 within Viet Nam,252673,252695,admin1_0,hierarchical,"Tuyen Quang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A166,VN2004A0,False,True
+Phu Tho is an Admin 1 within Viet Nam,252674,252695,admin1_0,hierarchical,"Phu Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A167,VN2004A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252675,252695,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A168,VN2004A0,False,True
+Bac Kan is an Admin 1 within Viet Nam,252676,252695,admin1_0,hierarchical,"Bac Kan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A169,VN2004A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252677,252695,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A170,VN2004A0,False,True
+Bac Giang is an Admin 1 within Viet Nam,252678,252695,admin1_0,hierarchical,"Bac Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A171,VN2004A0,False,True
+Bac Ninh is an Admin 1 within Viet Nam,252679,252695,admin1_0,hierarchical,"Bac Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A172,VN2004A0,False,True
+Bac Lieu is an Admin 1 within Viet Nam,252680,252695,admin1_0,hierarchical,"Bac Lieu, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A173,VN2004A0,False,True
+Ca Mau is an Admin 1 within Viet Nam,252681,252695,admin1_0,hierarchical,"Ca Mau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A174,VN2004A0,False,True
+Thai Nguyen is an Admin 1 within Viet Nam,252682,252695,admin1_0,hierarchical,"Thai Nguyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A175,VN2004A0,False,True
+Hai Duong is an Admin 1 within Viet Nam,252683,252695,admin1_0,hierarchical,"Hai Duong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A176,VN2004A0,False,True
+Hung Yen is an Admin 1 within Viet Nam,252684,252695,admin1_0,hierarchical,"Hung Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A177,VN2004A0,False,True
+Da Nang City is an Admin 1 within Viet Nam,252685,252695,admin1_0,hierarchical,"Da Nang City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A178,VN2004A0,False,True
+Quang Nam is an Admin 1 within Viet Nam,252686,252695,admin1_0,hierarchical,"Quang Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A179,VN2004A0,False,True
+Binh Duong is an Admin 1 within Viet Nam,252687,252695,admin1_0,hierarchical,"Binh Duong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A180,VN2004A0,False,True
+Binh Phuoc is an Admin 1 within Viet Nam,252688,252695,admin1_0,hierarchical,"Binh Phuoc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A181,VN2004A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252689,252695,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A182,VN2004A0,False,True
+Dak Nong is an Admin 1 within Viet Nam,252690,252695,admin1_0,hierarchical,"Dak Nong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A183,VN2004A0,False,True
+Can Tho City is an Admin 1 within Viet Nam,252691,252695,admin1_0,hierarchical,"Can Tho City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A184,VN2004A0,False,True
+Hau Giang is an Admin 1 within Viet Nam,252692,252695,admin1_0,hierarchical,"Hau Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A185,VN2004A0,False,True
+Dien Bien is an Admin 1 within Viet Nam,252693,252695,admin1_0,hierarchical,"Dien Bien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A186,VN2004A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252694,252695,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2004A187,VN2004A0,False,True
+An Giang is an Admin 1 within Viet Nam,252696,252759,admin1_0,hierarchical,"An Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A101,VN2008A0,False,True
+Ben Tre is an Admin 1 within Viet Nam,252697,252759,admin1_0,hierarchical,"Ben Tre, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A103,VN2008A0,False,True
+Binh Dinh is an Admin 1 within Viet Nam,252698,252759,admin1_0,hierarchical,"Binh Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A104,VN2008A0,False,True
+Dong Thap is an Admin 1 within Viet Nam,252699,252759,admin1_0,hierarchical,"Dong Thap, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A111,VN2008A0,False,True
+Ha Nam is an Admin 1 within Viet Nam,252700,252759,admin1_0,hierarchical,"Ha Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A114,VN2008A0,False,True
+Hai Phong City is an Admin 1 within Viet Nam,252701,252759,admin1_0,hierarchical,"Hai Phong City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A119,VN2008A0,False,True
+Ho Chi Minh City is an Admin 1 within Viet Nam,252702,252759,admin1_0,hierarchical,"Ho Chi Minh City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A120,VN2008A0,False,True
+Kien Giang is an Admin 1 within Viet Nam,252703,252759,admin1_0,hierarchical,"Kien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A122,VN2008A0,False,True
+Lam Dong is an Admin 1 within Viet Nam,252704,252759,admin1_0,hierarchical,"Lam Dong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A124,VN2008A0,False,True
+Lang Son is an Admin 1 within Viet Nam,252705,252759,admin1_0,hierarchical,"Lang Son, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A125,VN2008A0,False,True
+Lao Cai is an Admin 1 within Viet Nam,252706,252759,admin1_0,hierarchical,"Lao Cai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A126,VN2008A0,False,True
+Long An is an Admin 1 within Viet Nam,252707,252759,admin1_0,hierarchical,"Long An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A127,VN2008A0,False,True
+Nam Dinh is an Admin 1 within Viet Nam,252708,252759,admin1_0,hierarchical,"Nam Dinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A129,VN2008A0,False,True
+Ninh Binh is an Admin 1 within Viet Nam,252709,252759,admin1_0,hierarchical,"Ninh Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A132,VN2008A0,False,True
+Quang Ngai is an Admin 1 within Viet Nam,252710,252759,admin1_0,hierarchical,"Quang Ngai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A135,VN2008A0,False,True
+Quang Ninh is an Admin 1 within Viet Nam,252711,252759,admin1_0,hierarchical,"Quang Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A136,VN2008A0,False,True
+Soc Trang is an Admin 1 within Viet Nam,252712,252759,admin1_0,hierarchical,"Soc Trang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A137,VN2008A0,False,True
+Son La is an Admin 1 within Viet Nam,252713,252759,admin1_0,hierarchical,"Son La, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A138,VN2008A0,False,True
+Tay Ninh is an Admin 1 within Viet Nam,252714,252759,admin1_0,hierarchical,"Tay Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A140,VN2008A0,False,True
+Thai Binh is an Admin 1 within Viet Nam,252715,252759,admin1_0,hierarchical,"Thai Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A141,VN2008A0,False,True
+Thanh Hoa is an Admin 1 within Viet Nam,252716,252759,admin1_0,hierarchical,"Thanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A143,VN2008A0,False,True
+Tien Giang is an Admin 1 within Viet Nam,252717,252759,admin1_0,hierarchical,"Tien Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A145,VN2008A0,False,True
+Yen Bai is an Admin 1 within Viet Nam,252718,252759,admin1_0,hierarchical,"Yen Bai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A147,VN2008A0,False,True
+Quang Binh is an Admin 1 within Viet Nam,252719,252759,admin1_0,hierarchical,"Quang Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A148,VN2008A0,False,True
+Quang Tri is an Admin 1 within Viet Nam,252720,252759,admin1_0,hierarchical,"Quang Tri, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A149,VN2008A0,False,True
+Thua Thien is an Admin 1 within Viet Nam,252721,252759,admin1_0,hierarchical,"Thua Thien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A150,VN2008A0,False,True
+Khanh Hoa is an Admin 1 within Viet Nam,252722,252759,admin1_0,hierarchical,"Khanh Hoa, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A151,VN2008A0,False,True
+Phu Yen is an Admin 1 within Viet Nam,252723,252759,admin1_0,hierarchical,"Phu Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A152,VN2008A0,False,True
+Gia Lai is an Admin 1 within Viet Nam,252724,252759,admin1_0,hierarchical,"Gia Lai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A153,VN2008A0,False,True
+Kon Tum is an Admin 1 within Viet Nam,252725,252759,admin1_0,hierarchical,"Kon Tum, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A154,VN2008A0,False,True
+Ha Tinh is an Admin 1 within Viet Nam,252726,252759,admin1_0,hierarchical,"Ha Tinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A155,VN2008A0,False,True
+Nghe An is an Admin 1 within Viet Nam,252727,252759,admin1_0,hierarchical,"Nghe An, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A156,VN2008A0,False,True
+Binh Thuan is an Admin 1 within Viet Nam,252728,252759,admin1_0,hierarchical,"Binh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A157,VN2008A0,False,True
+Ninh Thuan is an Admin 1 within Viet Nam,252729,252759,admin1_0,hierarchical,"Ninh Thuan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A158,VN2008A0,False,True
+Hoa Binh is an Admin 1 within Viet Nam,252730,252759,admin1_0,hierarchical,"Hoa Binh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A159,VN2008A0,False,True
+Tra Vinh is an Admin 1 within Viet Nam,252731,252759,admin1_0,hierarchical,"Tra Vinh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A161,VN2008A0,False,True
+Vinh Long is an Admin 1 within Viet Nam,252732,252759,admin1_0,hierarchical,"Vinh Long, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A162,VN2008A0,False,True
+Ba Ria - Vung Tau is an Admin 1 within Viet Nam,252733,252759,admin1_0,hierarchical,"Ba Ria - Vung Tau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A163,VN2008A0,False,True
+Dong Nai is an Admin 1 within Viet Nam,252734,252759,admin1_0,hierarchical,"Dong Nai, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A164,VN2008A0,False,True
+Ha Giang is an Admin 1 within Viet Nam,252735,252759,admin1_0,hierarchical,"Ha Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A165,VN2008A0,False,True
+Tuyen Quang is an Admin 1 within Viet Nam,252736,252759,admin1_0,hierarchical,"Tuyen Quang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A166,VN2008A0,False,True
+Phu Tho is an Admin 1 within Viet Nam,252737,252759,admin1_0,hierarchical,"Phu Tho, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A167,VN2008A0,False,True
+Bac Kan is an Admin 1 within Viet Nam,252738,252759,admin1_0,hierarchical,"Bac Kan, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A169,VN2008A0,False,True
+Cao Bang is an Admin 1 within Viet Nam,252739,252759,admin1_0,hierarchical,"Cao Bang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A170,VN2008A0,False,True
+Bac Giang is an Admin 1 within Viet Nam,252740,252759,admin1_0,hierarchical,"Bac Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A171,VN2008A0,False,True
+Bac Ninh is an Admin 1 within Viet Nam,252741,252759,admin1_0,hierarchical,"Bac Ninh, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A172,VN2008A0,False,True
+Bac Lieu is an Admin 1 within Viet Nam,252742,252759,admin1_0,hierarchical,"Bac Lieu, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A173,VN2008A0,False,True
+Ca Mau is an Admin 1 within Viet Nam,252743,252759,admin1_0,hierarchical,"Ca Mau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A174,VN2008A0,False,True
+Thai Nguyen is an Admin 1 within Viet Nam,252744,252759,admin1_0,hierarchical,"Thai Nguyen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A175,VN2008A0,False,True
+Hai Duong is an Admin 1 within Viet Nam,252745,252759,admin1_0,hierarchical,"Hai Duong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A176,VN2008A0,False,True
+Hung Yen is an Admin 1 within Viet Nam,252746,252759,admin1_0,hierarchical,"Hung Yen, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A177,VN2008A0,False,True
+Da Nang City is an Admin 1 within Viet Nam,252747,252759,admin1_0,hierarchical,"Da Nang City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A178,VN2008A0,False,True
+Quang Nam is an Admin 1 within Viet Nam,252748,252759,admin1_0,hierarchical,"Quang Nam, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A179,VN2008A0,False,True
+Binh Duong is an Admin 1 within Viet Nam,252749,252759,admin1_0,hierarchical,"Binh Duong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A180,VN2008A0,False,True
+Binh Phuoc is an Admin 1 within Viet Nam,252750,252759,admin1_0,hierarchical,"Binh Phuoc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A181,VN2008A0,False,True
+Dak Lak is an Admin 1 within Viet Nam,252751,252759,admin1_0,hierarchical,"Dak Lak, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A182,VN2008A0,False,True
+Dak Nong is an Admin 1 within Viet Nam,252752,252759,admin1_0,hierarchical,"Dak Nong, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A183,VN2008A0,False,True
+Can Tho City is an Admin 1 within Viet Nam,252753,252759,admin1_0,hierarchical,"Can Tho City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A184,VN2008A0,False,True
+Hau Giang is an Admin 1 within Viet Nam,252754,252759,admin1_0,hierarchical,"Hau Giang, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A185,VN2008A0,False,True
+Dien Bien is an Admin 1 within Viet Nam,252755,252759,admin1_0,hierarchical,"Dien Bien, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A186,VN2008A0,False,True
+Lai Chau is an Admin 1 within Viet Nam,252756,252759,admin1_0,hierarchical,"Lai Chau, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A187,VN2008A0,False,True
+Ha Noi City is an Admin 1 within Viet Nam,252757,252759,admin1_0,hierarchical,"Ha Noi City, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A188,VN2008A0,False,True
+Vinh Phuc is an Admin 1 within Viet Nam,252758,252759,admin1_0,hierarchical,"Vinh Phuc, Viet Nam, Vietnam","Viet Nam, Vietnam",VN2008A189,VN2008A0,False,True
